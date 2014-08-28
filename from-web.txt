@@ -1,3 +1,5 @@
 This is a file created in the web editor.
 
-This file and the commit containing it are on the web and not yet on my local machine, a git pull is needed.
+This file and the commit containing it are on the web and not yet on my local machine, a 'git pull' is needed.
+
+This is an additional commit from the web to show how to deal with merges locally.
