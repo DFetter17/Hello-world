@@ -1,4 +1,3 @@
-Hello-world
-===========
+#Hello World
 
-Practice repository for GitHub foundations class
+Practice repository for GitHub foundations class.
